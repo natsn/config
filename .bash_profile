@@ -1,6 +1,5 @@
 export NODE_ENV='development'
 
-# All of our virtual enviornments are stored in here now:
 alias ip="ifconfig | grep 'inet '"
 
 # Awkward git aliases
