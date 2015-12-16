@@ -1,6 +1,4 @@
 export NODE_ENV='development'
-export epals2_PASS='uurH8J8mP7nFThKz783w'
-export nicu_pals_PASS='kLMGR5KPH<,5"$u'
 
 # All of our virtual enviornments are stored in here now:
 alias ip="ifconfig | grep 'inet '"
